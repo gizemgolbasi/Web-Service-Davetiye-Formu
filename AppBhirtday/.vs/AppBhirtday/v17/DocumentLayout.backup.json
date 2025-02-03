@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF264281-BC2B-41AD-8D0A-890B578BD3D1}|JQueryApp\\JQueryApp.csproj|c:\\users\\gizem g\u00F6lba\u015F\u0131\\source\\repos\\appbhirtday\\jqueryapp\\davetiyeformu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF264281-BC2B-41AD-8D0A-890B578BD3D1}|JQueryApp\\JQueryApp.csproj|solutionrelative:jqueryapp\\davetiyeformu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\views\\deneme\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\views\\deneme\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\views\\deneme\\davetiyeformu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\views\\deneme\\davetiyeformu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\views\\deneme\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\views\\deneme\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\views\\deneme\\katilanlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\views\\deneme\\katilanlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF264281-BC2B-41AD-8D0A-890B578BD3D1}|JQueryApp\\JQueryApp.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\jqueryapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BF264281-BC2B-41AD-8D0A-890B578BD3D1}|JQueryApp\\JQueryApp.csproj|solutionrelative:jqueryapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\models\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\models\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\models\\davetiye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\models\\davetiye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\controllers\\denemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\controllers\\denemecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\appbhirtday\\controllers\\davetiyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611247E9-9BC5-4EF1-9547-C68E804438C3}|AppBhirtday\\AppBhirtday.csproj|solutionrelative:appbhirtday\\controllers\\davetiyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DavetiyeFormu.html",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\JQueryApp\\DavetiyeFormu.html",
+              "RelativeDocumentMoniker": "JQueryApp\\DavetiyeFormu.html",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\JQueryApp\\DavetiyeFormu.html",
+              "RelativeToolTip": "JQueryApp\\DavetiyeFormu.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T22:11:05.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Web.config",
+              "RelativeDocumentMoniker": "AppBhirtday\\Web.config",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Web.config",
+              "RelativeToolTip": "AppBhirtday\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T18:18:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Web.Debug.config",
+              "RelativeDocumentMoniker": "AppBhirtday\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Web.Debug.config",
+              "RelativeToolTip": "AppBhirtday\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-02T15:27:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\JQueryApp\\Web.config",
+              "RelativeDocumentMoniker": "JQueryApp\\Web.config",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\JQueryApp\\Web.config",
+              "RelativeToolTip": "JQueryApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T18:32:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DavetiyeFormu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\DavetiyeFormu.cshtml",
+              "RelativeDocumentMoniker": "AppBhirtday\\Views\\Deneme\\DavetiyeFormu.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\DavetiyeFormu.cshtml",
+              "RelativeToolTip": "AppBhirtday\\Views\\Deneme\\DavetiyeFormu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:50:45.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBhirtday\\Views\\Deneme\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\Index.cshtml",
+              "RelativeToolTip": "AppBhirtday\\Views\\Deneme\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:42:09.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Katilanlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\Katilanlar.cshtml",
+              "RelativeDocumentMoniker": "AppBhirtday\\Views\\Deneme\\Katilanlar.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\Katilanlar.cshtml",
+              "RelativeToolTip": "AppBhirtday\\Views\\Deneme\\Katilanlar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T20:33:37.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "AppBhirtday\\Views\\Deneme\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Deneme\\Thanks.cshtml",
+              "RelativeToolTip": "AppBhirtday\\Views\\Deneme\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T20:26:04.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Web.Release.config",
+              "RelativeDocumentMoniker": "AppBhirtday\\Web.Release.config",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Web.Release.config",
+              "RelativeToolTip": "AppBhirtday\\Web.Release.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-02T15:27:55.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\packages.config",
+              "RelativeDocumentMoniker": "AppBhirtday\\packages.config",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\packages.config",
+              "RelativeToolTip": "AppBhirtday\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-02T17:34:44.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AppBhirtday\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Global.asax.cs",
+              "RelativeToolTip": "AppBhirtday\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:34:45.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "AppBhirtday\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "AppBhirtday\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Davetiye.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Models\\Davetiye.cs",
+              "RelativeDocumentMoniker": "AppBhirtday\\Models\\Davetiye.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Models\\Davetiye.cs",
+              "RelativeToolTip": "AppBhirtday\\Models\\Davetiye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:47:03.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Veritabani.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Models\\Veritabani.cs",
+              "RelativeDocumentMoniker": "AppBhirtday\\Models\\Veritabani.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Models\\Veritabani.cs",
+              "RelativeToolTip": "AppBhirtday\\Models\\Veritabani.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:54:42.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppBhirtday\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppBhirtday\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:42:18.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Web.config",
+              "RelativeDocumentMoniker": "AppBhirtday\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Views\\Web.config",
+              "RelativeToolTip": "AppBhirtday\\Views\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T07:26:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DenemeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Controllers\\DenemeController.cs",
+              "RelativeDocumentMoniker": "AppBhirtday\\Controllers\\DenemeController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Controllers\\DenemeController.cs",
+              "RelativeToolTip": "AppBhirtday\\Controllers\\DenemeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:41:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DavetiyeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Controllers\\DavetiyeController.cs",
+              "RelativeDocumentMoniker": "AppBhirtday\\Controllers\\DavetiyeController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\AppBhirtday\\AppBhirtday\\Controllers\\DavetiyeController.cs",
+              "RelativeToolTip": "AppBhirtday\\Controllers\\DavetiyeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:59:37.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@model  IEnumerable<AppBhirtday.Models.Davetiye>
+
+
+@*katılanların sayısı birse böyle yazdıracak*@
+@if (Model.Count() == 1)
+            {
+                <p>partiye katılan ilk kişi sensin :)</p>
+            }
+
+@*değilse katılanları liste halinde adlarını yazdıracak yani birden fazla kişiyse*@
+else
+            {
+                <hr />
+                <p>
+                    @foreach( var i in Model)
+                {
+                    <label class="label label-succes"> @i.Ad </label>
+                }
+                </p>
+            }
